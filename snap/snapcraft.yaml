@@ -79,6 +79,7 @@ parts:
       - grpc-google-iam-v1==0.12.3
       - googleapis-common-protos==1.52.0
       - python3-saml==1.4.0
+      - sentry_mattermost==0.0.1
       - sentry==$SNAPCRAFT_PROJECT_VERSION
     build-packages:
       - libssl-dev
